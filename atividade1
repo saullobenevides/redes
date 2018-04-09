@@ -1,0 +1,26 @@
+1º Comendo pwd
+/home/sirbenevides
+2º mkdir para criar my_test
+Cd para entrar na my_test 
+E mkdir para criar a my_work e task1
+3º Cd para entrar na my_test 
+7º usei o comado ls –l
+8º usei o comando chmod 755 numbers.txt
+9º chmod 644 numbers1.txt
+10º usei cp –r para mover a pasta
+cp -r ./my_test/task1 ./
+11º usei o comando mv
+mv my_work my_work1
+12º apaguei a pasta com o commando rm 
+rm -r task1
+13º com o commando ls -la /bin > listabin.txt
+14º usei o comando clear
+15º  usando o comando 
+Top
+16º nano script.sh
+#!/bin/sh
+#__BEGIN_MAIN__
+echo Nome: Saullo, Sobrenome: Benevides, Sexo: Masculino, Idade: 18, Grau de instruçao 3º.
+#__END_MAIN__
+Sair
+sh script.sh
